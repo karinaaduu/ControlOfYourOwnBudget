@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="AccountEventArgsLibrary">
+      <HintPath>..\AccountEventArgs\bin\Debug\netcoreapp3.1\AccountEventArgsLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="ExceptionsLibrary">
+      <HintPath>..\ExceptionsLibrary\bin\Debug\netcoreapp3.1\ExceptionsLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="ExpenseItemLibrary">
+      <HintPath>..\ExpenseItemLibrary\bin\Debug\netcoreapp3.1\ExpenseItemLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="IncomeItemLibrary">
+      <HintPath>..\IncomeItemLibrary\bin\Debug\netcoreapp3.1\IncomeItemLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
