@@ -1,0 +1,9 @@
+C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\ControlOfYourOwnBudget\ExceptionsLibrary\bin\Debug\netcoreapp3.1\ExceptionsLibrary.deps.json
+C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\ControlOfYourOwnBudget\ExceptionsLibrary\bin\Debug\netcoreapp3.1\ExceptionsLibrary.dll
+C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\ControlOfYourOwnBudget\ExceptionsLibrary\bin\Debug\netcoreapp3.1\ExceptionsLibrary.pdb
+C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\ControlOfYourOwnBudget\ExceptionsLibrary\obj\Debug\netcoreapp3.1\ExceptionsLibrary.csprojAssemblyReference.cache
+C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\ControlOfYourOwnBudget\ExceptionsLibrary\obj\Debug\netcoreapp3.1\ExceptionsLibrary.AssemblyInfoInputs.cache
+C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\ControlOfYourOwnBudget\ExceptionsLibrary\obj\Debug\netcoreapp3.1\ExceptionsLibrary.AssemblyInfo.cs
+C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\ControlOfYourOwnBudget\ExceptionsLibrary\obj\Debug\netcoreapp3.1\ExceptionsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\ControlOfYourOwnBudget\ExceptionsLibrary\obj\Debug\netcoreapp3.1\ExceptionsLibrary.dll
+C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\ControlOfYourOwnBudget\ExceptionsLibrary\obj\Debug\netcoreapp3.1\ExceptionsLibrary.pdb
