@@ -1,0 +1,9 @@
+C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\ControlOfYourOwnBudget\IncomeItemLibrary\bin\Debug\netcoreapp3.1\IncomeItemLibrary.deps.json
+C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\ControlOfYourOwnBudget\IncomeItemLibrary\bin\Debug\netcoreapp3.1\IncomeItemLibrary.dll
+C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\ControlOfYourOwnBudget\IncomeItemLibrary\bin\Debug\netcoreapp3.1\IncomeItemLibrary.pdb
+C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\ControlOfYourOwnBudget\IncomeItemLibrary\obj\Debug\netcoreapp3.1\IncomeItemLibrary.csprojAssemblyReference.cache
+C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\ControlOfYourOwnBudget\IncomeItemLibrary\obj\Debug\netcoreapp3.1\IncomeItemLibrary.AssemblyInfoInputs.cache
+C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\ControlOfYourOwnBudget\IncomeItemLibrary\obj\Debug\netcoreapp3.1\IncomeItemLibrary.AssemblyInfo.cs
+C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\ControlOfYourOwnBudget\IncomeItemLibrary\obj\Debug\netcoreapp3.1\IncomeItemLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\ControlOfYourOwnBudget\IncomeItemLibrary\obj\Debug\netcoreapp3.1\IncomeItemLibrary.dll
+C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\ControlOfYourOwnBudget\IncomeItemLibrary\obj\Debug\netcoreapp3.1\IncomeItemLibrary.pdb
