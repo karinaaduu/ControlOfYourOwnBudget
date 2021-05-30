@@ -1,0 +1,9 @@
+C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\ControlOfYourOwnBudget\ExpenseItemLibrary\bin\Debug\netcoreapp3.1\ExpenseItemLibrary.deps.json
+C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\ControlOfYourOwnBudget\ExpenseItemLibrary\bin\Debug\netcoreapp3.1\ExpenseItemLibrary.dll
+C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\ControlOfYourOwnBudget\ExpenseItemLibrary\bin\Debug\netcoreapp3.1\ExpenseItemLibrary.pdb
+C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\ControlOfYourOwnBudget\ExpenseItemLibrary\obj\Debug\netcoreapp3.1\ExpenseItemLibrary.csprojAssemblyReference.cache
+C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\ControlOfYourOwnBudget\ExpenseItemLibrary\obj\Debug\netcoreapp3.1\ExpenseItemLibrary.AssemblyInfoInputs.cache
+C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\ControlOfYourOwnBudget\ExpenseItemLibrary\obj\Debug\netcoreapp3.1\ExpenseItemLibrary.AssemblyInfo.cs
+C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\ControlOfYourOwnBudget\ExpenseItemLibrary\obj\Debug\netcoreapp3.1\ExpenseItemLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\ControlOfYourOwnBudget\ExpenseItemLibrary\obj\Debug\netcoreapp3.1\ExpenseItemLibrary.dll
+C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\ControlOfYourOwnBudget\ExpenseItemLibrary\obj\Debug\netcoreapp3.1\ExpenseItemLibrary.pdb
